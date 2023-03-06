@@ -1,0 +1,175 @@
+/* barva tmavá #e69138 */
+/* barva světlá #f9e3cd */
+
+/* Titulka */
+
+.navbar-brand{
+    font-family: 'Montserrat' sans-serif;
+    font-weight: 200;
+    font-size: 1.5rem;
+}
+.nav-item{
+    padding: 0 15px;
+}
+.navbar-nav{
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+.nav-item:hover{
+    background-color: #bd772d;
+    color: white;
+    border-radius: 30px;
+}
+nav{
+    background-color: #e69138;
+
+}
+.odsazeni{
+    padding-top: 10%;
+
+}
+h1{
+    text-align: center justify;
+font-size: 5.5rem;
+padding-bottom: 2.5rem;
+font-family: 'Secular One', sans-serif;
+font-weight: bolder;
+text-shadow: 2px 2px 3px black;
+}
+
+.fotohrnek{
+    width: 400px;
+    border-radius: 100%;
+    margin: 0 auto;
+    display: block;
+    filter: drop-shadow(0 0 0.75rem);
+}
+#title{
+    padding-bottom: 5%;
+    background-color: #e69138;
+}
+.odsazeni button{
+    margin-right: 30px;
+    font-weight: 600;
+    filter: drop-shadow(5px 5px 4px )
+}
+
+/* TOP 3 Products */
+
+.top3products{
+    padding: 50px 0px;
+background-color: #f9e3cd;
+text-align: center;
+}
+
+.cafefoto{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    filter: drop-shadow(0 0 0.75rem);
+    margin-bottom: 30px;
+}
+
+.top3products img:hover{
+    filter: drop-shadow(0 0 0.75rem #e69138);
+
+}
+h2{
+    font-size: 3.5rem;
+    font-family: 'Montserrat';
+    padding-bottom: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+h3{
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.top3products p{
+    text-align: justify;
+    padding: 30px ;
+    font-family: 'Montserrat';
+}
+
+/* sale */
+.sale{
+    background-color: #e69138;
+text-align: center;
+padding: 30px 0;
+}
+.sale p {
+    padding-bottom: 50px;
+    text-align: justify;
+    font-family: 'Montserrat';
+}
+.nazev{
+    text-align: center;
+}
+h4{
+    font-size: 2.5rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+h5{
+    font-size: 2rem;
+    font-family: 'Montserrat';
+    font-weight: 100;
+}
+.sale img:hover{
+    filter: drop-shadow(0 0 0.75rem #f9e3cd);
+}
+
+/* Contact */
+
+.contact{
+    text-align: center;
+
+}
+.contact-sekce{
+    background-color: #e69138;
+    padding: 50px;
+}
+.contact svg:hover{
+    fill: #f9e3cd;
+    text-shadow: 2px 2px 3px black;
+}
+
+/* kariera */
+
+.kariera{
+    background-color: #f9e3cd;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.odkaz{
+    font-family: 'Montserrat';
+    color: black;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.odkaz:hover{
+    color: #e69138;
+    text-shadow: 1px 1px 2px black;
+
+}
+#mezera{
+    padding-bottom: 30px;
+}
+/* paticka */
+
+.paticka{
+    background-color: #e69138;
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: 100;
+}
+.paticka p{
+    margin: 0;
+    padding: 20px 0;
+
+}
